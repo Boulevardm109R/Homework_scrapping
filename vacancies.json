@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Python-разработчик (Django)",
+    "link": "https://spb.hh.ru/vacancy/84046952?from=vacancy_search_list&query=python",
+    "company": "Российское общество Знание",
+    "city": "Москва",
+    "metros": [
+      "Пионерская",
+      "",
+      "Бауманская",
+      "Алексеевская",
+      "Коломенская",
+      "Фили",
+      ""
+    ],
+    "salary": "от 230 000 ₽"
+  },
+  {
+    "title": "Middle developer Python (Django)",
+    "link": "https://spb.hh.ru/vacancy/84641807?from=vacancy_search_list&query=python",
+    "company": "Группа Самолет",
+    "city": "Москва",
+    "metros": [
+      "Пионерская",
+      "",
+      "Бауманская",
+      "Алексеевская",
+      "Коломенская",
+      "Фили",
+      ""
+    ],
+    "salary": "до 350 000 ₽"
+  }
+]
